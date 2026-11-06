@@ -1,1 +1,2 @@
-"Это первое изменение в feature-ветке1"
+"Строка из master и conflict-branch"
+
